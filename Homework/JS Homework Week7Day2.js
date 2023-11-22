@@ -24,7 +24,7 @@ let person3 = {
 }
 
 function favorite_food(person_list) {
-
+    oass
 }
 
 // Other option 
