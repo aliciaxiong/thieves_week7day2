@@ -24,15 +24,19 @@ let person3 = {
 }
 
 function favorite_food(person_list) {
-    oass
+    let (food in person_list) 
+        if (person_list[food]) {
+        } console.log(`person_list${food}`)
 }
 
+favorite_food(person3)
+
 // Other option 
-console.log(person3.pizza)
-console.log(person3.tacos)
-console.log(person3.burgers)
-console.log(person3.ice_cream)
-console.log(person3.shakes[0])
+// console.log(person3.pizza)
+// console.log(person3.tacos)
+// console.log(person3.burgers)
+// console.log(person3.ice_cream)
+// console.log(person3.shakes[0])
 
 //======= Exercise #2=========//
 /*
